@@ -1,1 +1,1 @@
-A laravel application based on Student Management System
+A laravel CRUD application based on Student Management System
